@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1UpMMHdINf4u6RO8G_XI4XFnlPmCGwnRh\/preview"
+                 "value":"https:\/\/forms.gle\/TPCrfziCJhXuHogx7"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1FiqA9o6wXHrUIgXpEMyC5xkAACEIv6Gm\/preview"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeDX_eWRFH0ilrUq2wkLpeTEbf2ysQ-YhJ3JfUDp2dSbf3I7Q\/viewform?usp=sf_link"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,7 +247,7 @@
                 {
                  "name":"opneWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1ga9LSirWpxXeT1nddiHEZxS1oyYhXPiK\/preview"
+                 "value":"https:\/\/forms.gle\/L9oVjL5HFnSQExPRA"
                 }],
          "type":"tilelayer",
          "visible":true,
