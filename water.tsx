@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="water" tilewidth="32" tileheight="32" tilecount="1920" columns="64">
- <image source="../workadventure-map-forumphp-master/tilesets/water.png" width="2048" height="384"/>
+ <image source="water.png" width="2048" height="384"/>
  <tile id="0">
   <properties>
    <property name="collides" type="bool" value="true"/>
