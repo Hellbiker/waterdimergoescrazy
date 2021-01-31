@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframhttps:\/\/open.spotify.com\/embed\/playlist\/37i9dQZF1DX07Bg0Q5GozA"
+                 "value":"https:\/\/open.spotify.com\/embed\/playlist\/37i9dQZF1DX07Bg0Q5GozA"
                 }],
          "type":"tilelayer",
          "visible":true,
