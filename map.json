@@ -4474,41 +4474,6 @@
          "tilecount":240,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":8,
-         "firstgid":3285,
-         "image":"..\/workadventure-map-forumphp-master\/tilesets\/carpet-34x34.png",
-         "imageheight":256,
-         "imagewidth":256,
-         "margin":0,
-         "name":"carpet",
-         "spacing":0,
-         "terrains":[
-                {
-                 "name":"carpeted",
-                 "tile":26
-                }],
-         "tilecount":64,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "terrain":[-1, -1, -1, 0]
-                }, 
-                {
-                 "id":1,
-                 "terrain":[-1, -1, 0, -1]
-                }, 
-                {
-                 "id":8,
-                 "terrain":[-1, 0, -1, -1]
-                }, 
-                {
-                 "id":9,
-                 "terrain":[0, -1, -1, -1]
-                }],
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
