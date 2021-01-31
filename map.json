@@ -153,8 +153,56 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":64,
          "firstgid":1129,
-         "source":"water.json"
+         "image":"water.png",
+         "imageheight":384,
+         "imagewidth":2048,
+         "margin":0,
+         "name":"water",
+         "spacing":0,
+         "tilecount":768,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":11,
+         "firstgid":1897,
+         "image":"tables.png",
+         "imageheight":208,
+         "imagewidth":352,
+         "margin":0,
+         "name":"tables",
+         "spacing":0,
+         "tilecount":66,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":1963,
+         "image":"cakes.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Cakes",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":7,
+         "firstgid":2219,
+         "image":"food.png",
+         "imageheight":192,
+         "imagewidth":224,
+         "margin":0,
+         "name":"food",
+         "spacing":0,
+         "tilecount":42,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
