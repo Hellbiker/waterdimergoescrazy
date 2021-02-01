@@ -283,7 +283,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd8IBkN1c5aDVvApg_9bfjD_WsHvRyKBVmWCMddY7Cq0fPVuA\/viewform?embedded=true"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd8IBkN1c5aDVvApg_9bfjD_WsHvRyKBVmWCMddY7Cq0fPVuA\/viewform?usp=sf_link"
                 }],
          "type":"tilelayer",
          "visible":true,
