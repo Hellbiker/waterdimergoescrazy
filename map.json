@@ -163,7 +163,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"soundsCoins.mp3"
+                 "value":"\/sounds\/coins.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -197,7 +197,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"plazAudioLoop",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"\/sounds\/jubeln.mp3"
                 }],
@@ -232,7 +232,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":47,
          "x":0,
          "y":0
