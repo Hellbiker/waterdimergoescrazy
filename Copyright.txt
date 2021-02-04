@@ -1,0 +1,2 @@
+deco_rc3-mullana-objects.png (musik.tsx, musik.json)and structures_rc3-mullana-functionary.png (rc3.json, rc3.tsx)
+taken from https://git.cccv.de/rc3/world-tiles/-/tree/master licensed under CC0
