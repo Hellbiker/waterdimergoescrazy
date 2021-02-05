@@ -4714,8 +4714,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":3285,
-         "source":"rc3.json"
+         "image":"deco_rc3-mullana-objects.png",
+         "imageheight":256,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
