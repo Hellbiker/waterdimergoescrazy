@@ -307,7 +307,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#portaljump"
+                 "value":"https:\/\/play.workadventu.re\/@\/hellbiker\/waterdimergoescrazy\/pub_ext#portaljump"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -325,7 +325,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#portaljump2"
+                 "value":"https:\/\/play.workadventu.re\/@\/hellbiker\/waterdimergoescrazy\/pub_ext#portaljump2"
                 }],
          "type":"tilelayer",
          "visible":true,
