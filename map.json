@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hellbiker\/waterdimergoescrazy\/pub#portaljump"
+                 "value":"https:\/\/play.workadventu.re\/@\/hellbiker\/waterdimergoescrazy\/msc_cheers#portaljump"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,7 +307,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hellbiker\/waterdimergoescrazy\/pub#portaljump2"
+                 "value":"https:\/\/play.workadventu.re\/@\/hellbiker\/waterdimergoescrazy\/msc_cheers#portaljump2"
                 }],
          "type":"tilelayer",
          "visible":true,
