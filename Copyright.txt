@@ -2,10 +2,10 @@ deco_rc3-mullana-objects.png (musik.tsx, musik.json)and structures_rc3-mullana-f
 taken from https://git.cccv.de/rc3/world-tiles/-/tree/master licensed under CC0
 modern_interiors.png taken from https://github.com/gparant/tcm-client
 PandaMaru_MV_xmasdecoration.png taken from PandaMaru
+PandaMaru_MV_candycanes.png taken from PandaMaru
 - Resources are free to use (commercial too), but you must credit PandaMaru.
 - You are free to alter the resources for your own purpose.
 - If you alter or build upon the material, you must distribute your contributions under the same license as the original.
 - Please don't repost resources, link back to this thread or https://rpgmaker-mv.de/forum/thread/17-maru-s-mv-ressourcen/
 
 https://forums.rpgmakerweb.com/index.php?threads/marus-mv-bits.46811/
-extset_ice.png taken from https://github.com/thecodingmachine/workadventure-php-community-map
