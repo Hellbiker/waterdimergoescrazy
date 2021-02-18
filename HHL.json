@@ -331,7 +331,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/blobbyvolley.de\/data\/bv2browser\/index.html"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd4324XC8Aiqyj02yz36vqhqLdWsoIio_WFkrkCzvW-uvWLzg\/viewform?embedded=true"
                 }],
          "type":"tilelayer",
          "visible":true,
