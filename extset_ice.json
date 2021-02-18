@@ -1,0 +1,14 @@
+{ "columns":20,
+ "image":"extset_ice.png",
+ "imageheight":288,
+ "imagewidth":640,
+ "margin":0,
+ "name":"extset_ice",
+ "spacing":0,
+ "tilecount":180,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

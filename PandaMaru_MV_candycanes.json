@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"PandaMaru_MV_candycanes.png",
+ "imageheight":384,
+ "imagewidth":384,
+ "margin":0,
+ "name":"PandaMaru_MV_candycanes",
+ "spacing":0,
+ "tilecount":144,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
